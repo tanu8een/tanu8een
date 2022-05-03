@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Tanushree</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanu8een&label=Profile%20views&color=0e75b6&style=flat" alt="tanu8een" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my skills.**
 
-- 🌱 I’m currently learning **Competitive Programming & working as a Software Developer.**
+- 🌱 I’m currently learning **Competitive Programming and MERN Stack**
 
 - 👯 I’m looking to collaborate on **open source**
 
