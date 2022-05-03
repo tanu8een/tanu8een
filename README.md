@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my skills.**
 
-- 🌱 I’m currently learning **Competetive Programming & working as a Software Developer.**
+- 🌱 I’m currently learning **Competitive Programming & working as a Software Developer.**
 
 - 👯 I’m looking to collaborate on **open source**
 
